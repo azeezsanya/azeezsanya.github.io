@@ -1,5 +1,5 @@
 ---
-layout: Cat
+layout: Data Enthusiast
 title: Data Enthusiast | Data Scientist | Business Development | 5+ Years in Tourism and Retail industries
 ---
 
