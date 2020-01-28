@@ -10,10 +10,10 @@ Having worked across different cultures for 10+ years, helping organizations to 
 
 I'm currently working on some personal Data Science project project. 
 
-Ongoing project
+### Ongoing project
 Customer segenemtation and Customer Lifetime value prediction
 
-Completed project
+### Completed project
 Topic Modelling and Sentiment Analysis of Luxury cars Reviews using LDA and gensim
 
 ### Contact me
