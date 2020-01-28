@@ -1,9 +1,9 @@
 ---
 layout: Data Enthusiast
-title: Data Enthusiast | Data Scientist | Business Development | 5+ Years in Tourism and Retail industries
+title: Data Enthusiast | Data Scientist | Analytics| Business Development | Python | SQL | Tableau | Power BI | R
 ---
 
 
 
 
-![_config.yml]({{ site.baseurl }}/images/weirdcat.jpg)
+![_config.yml]({{ site.baseurl }}/images/068-.jpg)
