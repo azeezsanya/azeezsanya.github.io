@@ -14,7 +14,7 @@ I'm currently working on some personal Data Science project project.
 Customer segenemtation and Customer Lifetime value prediction
 
 ### Completed project
-Topic Modelling and Sentiment Analysis of Luxury cars Reviews using LDA and gensim
+NLP Topic Modelling and Sentiment Analysis of Luxury car Reviews using LDA and gensim
 
 ### Contact me
 
