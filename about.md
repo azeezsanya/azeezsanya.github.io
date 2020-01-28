@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Having worked across different cultures for 10+ years, helping organizations to develop their business, supporting the marketing department and incorporating different approaches to improve their customer service, I have seen the impact of data analysis in helping firms to make effective business decisions. I'm currently studying Data Science at BrainStation where I've been exposed to modern tools and techniques using Python, SQL and R to build predictive models, descriptive and diagnostic analysis, Data Mining, Machine Learning as well as Data Visualization to derive insight that will help organizations make impactful decisions.
+Data enthusiast with 9+ years of experience across different cultures helping organizations in utilizing data to develop their business portfolios,  identifying, driving and reporting actionable data insights to improve business services and team. Collaborated with business teams and senior leadership to provide business solutions and incorporate effective approaches to improving customer service.
+
+Having seen the impact of data analysis in helping firms make effective business decisions, I enrolled and completed a Data Science Diploma program at BrainStation where I expanded and refined my analytical skills in using SQL, Python, Tableau, Power BI & R to uncover key insight from data and build statistical models, descriptive analysis, data mining, & Machine Learning to derive insight that will help organizations make impactful decisions. Competent communicator with strong analytical, detail-oriented and problem-solving skills. 
 
 ### More Information
 
