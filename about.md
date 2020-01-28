@@ -8,7 +8,13 @@ Having worked across different cultures for 10+ years, helping organizations to 
 
 ### More Information
 
-I'm currently working on a project. Topic Modelling and Sentiment Analysis of Luxury cars Reviews using LDA and gensim
+I'm currently working on some personal Data Science project project. 
+
+Ongoing project
+Customer segenemtation and Customer Lifetime value prediction
+
+Completed project
+Topic Modelling and Sentiment Analysis of Luxury cars Reviews using LDA and gensim
 
 ### Contact me
 
